@@ -1,3 +1,4 @@
+// Iniciar o ambiente quando a página for carregada
 $(function () {
   iniciaWebGL();
 });
